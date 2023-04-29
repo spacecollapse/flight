@@ -1,6 +1,6 @@
 # Коротко
 Качаете всё по ссылке ниже и устанавливаете
-https://github.com/defoxxx/flight/releases/download/komponents/archive.zip
+https://github.com/spacecollapse/flight/releases/download/komponents/archive.zip
 
 
 # Не коротко
